@@ -1,0 +1,59 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: red ;
+    color: #fff;
+   }
+   .logo {
+    font-size: 32px;
+   }
+   .menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+   }
+   .menu li:hover {
+    background-color: #4c9e9e;
+    border-radius: 5px;
+    transition: 0.3s ease;
+   }
+   .menu li {
+    padding: 5px 14px;
+   }
+  
+    .item {
+        border: 2px white;
+        text-align: center;
+    }
+    .item2{
+        text-align: center;
+    }
+#politica{
+    width: 500px;
+    height: 200px;
+    image-rendering: auto;
+}
+#esporte{
+    width: 500px;
+    height: 200px;
+}
+#geral {
+    text-align:right;
+}
+#esporte2{
+    width: 700px;
+    height: 400px;
+}
+#aposta{
+font-size: 15px;
+}
+#politica2 {
+    width: 500px;
+    height: 300px;
+}
+#imgesporte{
+ margin: auto;
+ display: block;
+}
